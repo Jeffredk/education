@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="anatomie" size="1.000000 1.102564" />
+    <ImageTarget name="systeme_digestif" size="1.000000 1.195498" />
+    <ImageTarget name="adn" size="1.000000 0.995455" />
+    <ImageTarget name="reins" size="1.000000 0.739583" />
+    <ImageTarget name="cerveau" size="1.000000 0.674536" />
+  </Tracking>
+</QCARConfig>
